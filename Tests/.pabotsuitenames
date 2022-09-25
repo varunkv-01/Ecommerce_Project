@@ -1,0 +1,9 @@
+datasources:9274213a07a961f2d362d3594fcbb6fb7d9e6dff
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:82e075b9630022044810ff7d16dddc6b8cf11dbe
+--suite Tests.testDemo1
+--suite Tests.testDemo2
+--suite Tests.testDemo3
+--suite Tests.testDemoCustom
+--suite Tests.testDemoParametrize
